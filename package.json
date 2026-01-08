@@ -73,7 +73,7 @@
     "lowdb": "^1.0.0",
     "mongoose": "^5.10.9",
     "mousetrap": "^1.6.5",
-    "nodemailer": "^6.4.14",
+    "nodemailer": "^7.0.11",
     "object-path": "^0.11.5",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
